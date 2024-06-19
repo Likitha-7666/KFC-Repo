@@ -1,0 +1,2 @@
+veg  items 
+non veg items
